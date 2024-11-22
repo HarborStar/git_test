@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi everyones
+=======
+
+>>>>>>> 74be5528d5dd00cc62743483051a5eae0c0fe6af
